@@ -1,0 +1,1 @@
+PyCharm Community Edition: File -> Open Folder as project
